@@ -1,4 +1,4 @@
-#longest common subsequence naive approach
+##longest common subsequence naive approach
 
 def longer(arr, n):
     ans = 0
